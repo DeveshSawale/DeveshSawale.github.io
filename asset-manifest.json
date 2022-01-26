@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DeveshSawale.github.io/static/css/main.e6c13ad2.css",
-    "main.js": "/DeveshSawale.github.io/static/js/main.987ae9e9.js",
-    "static/js/787.28cb0dcd.chunk.js": "/DeveshSawale.github.io/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/DeveshSawale.github.io/index.html",
-    "main.e6c13ad2.css.map": "/DeveshSawale.github.io/static/css/main.e6c13ad2.css.map",
-    "main.987ae9e9.js.map": "/DeveshSawale.github.io/static/js/main.987ae9e9.js.map",
-    "787.28cb0dcd.chunk.js.map": "/DeveshSawale.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/TextINFO/static/css/main.e6c13ad2.css",
+    "main.js": "/TextINFO/static/js/main.0476791a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextINFO/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextINFO/index.html",
+    "main.e6c13ad2.css.map": "/TextINFO/static/css/main.e6c13ad2.css.map",
+    "main.0476791a.js.map": "/TextINFO/static/js/main.0476791a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextINFO/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.987ae9e9.js"
+    "static/js/main.0476791a.js"
   ]
 }
