@@ -14,6 +14,6 @@
   <li> Copy text.
     
 # Link :
-    The link to the TextINFO site:
-    <li><a href = "https://deveshsawale.github.io/TextINFO/"> TextINFO </a>
+    The link to application is here : 
+    <li><a href="https://lifestories-app.netlify.app">LifeStories</a>
 
