@@ -13,7 +13,9 @@
   <li> Convert to Upper case, Lower Case.
   <li> Copy text.
     
-# Link :
-    The link to application is here : 
-    <li><a href="https://lifestories-app.netlify.app">LifeStories</a>
+# link :
+  The frontend and backend of the app is deployed, frontend is deployed using Netlify and the backend deployment is carried out using Heroku.
+  <br>
+  The link to application is here : 
+  <li><a href="https://lifestories-app.netlify.app">LifeStories</a>
 
