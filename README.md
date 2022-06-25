@@ -14,8 +14,7 @@
   <li> Copy text.
     
 # link :
-  The frontend and backend of the app is deployed, frontend is deployed using Netlify and the backend deployment is carried out using Heroku.
-  <br>
-  The link to application is here : 
-  <li><a href="https://lifestories-app.netlify.app">LifeStories</a>
+  
+  The site is published at: 
+  <li><a href="https://deveshsawale.github.io/TextINFO/">TextINFO</a>
 
