@@ -7,13 +7,13 @@
   TextINFO is helpful in getting summary of your text :
   <li> No. of words
   <li> letters and Reading time.
-  <br>
+  <br><br>
   It gives functionalities like :
   <li> Remove Extra Spaces
   <li> Convert to Upper case, Lower Case.
   <li> Copy text.
     
-#Link :
+# Link :
     The link to the TextINFO site:
     <a href = "https://deveshsawale.github.io/TextINFO/"> TextINFO </a>
 
