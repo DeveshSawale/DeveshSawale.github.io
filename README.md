@@ -13,7 +13,7 @@
   <li> Convert to Upper case, Lower Case.
   <li> Copy text.
     
-# Link:
+# Link :
     The link to the TextINFO site:
-    <a href = "https://deveshsawale.github.io/TextINFO/"> TextINFO </a>
+    <li><a href = "https://deveshsawale.github.io/TextINFO/"> TextINFO </a>
 
